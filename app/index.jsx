@@ -29,10 +29,13 @@ const styles = StyleSheet.create({
   link: {
     marginVertical: 20,
     padding: 16,
-    backgroundColor: '#21cc8d',
+    backgroundColor: '#0a5fafff',
     color: 'white',
     borderRadius: 8,
   },
+
 })
+
+
 
 export default Home
